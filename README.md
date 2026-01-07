@@ -14,4 +14,4 @@ Modelo de regressão treinado previamente em notebook
 
 ## 🎥 Demonstração da Aplicação
 
-👉 [Clique aqui para assistir ao vídeo de demonstração](demo.mp4)
+👉 [Clique aqui para assistir ao vídeo de demonstração]([video-funcionalidade.mp4](https://github.com/IgorSantos-CD/EBAC-Tarefa-Final-Modulo-38-/blob/main/video-funcionalidade.mp4)
